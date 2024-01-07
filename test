@@ -1,0 +1,10 @@
+register:
+        phone_numer
+        username
+        password
+        confirm_password
+
+login:
+      username
+      password
+
